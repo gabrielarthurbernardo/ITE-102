@@ -1,82 +1,52 @@
-
 <div align="center">
 
-# ⚡ MRBEAST.exe
+Arthur Gabriel P. Bernardo
 
-### `DIGITAL CREATOR • STREAMER • GAMER`
+STUDENT · DEVELOPER · DIGITAL CREATOR
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+UNIVERSE;STREAMING+THE+IMPOSSIBLE;STAY+DIFFERENT.+STAY+VOID." />
+Learning, building, and growing every day.
 
 <br>
 
-[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![TikTok](https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+GitHub · LinkedIn · Instagram · Email
 
 </div>
 
----
+About Me
 
-# 🧬 ABOUT ME
+Hello! I'm Arthur Gabriel P. Bernardo.
 
-> *"Not here to fit in. Here to stand out."*
+I'm passionate about technology, creativity, and continuous learning. I enjoy exploring new ideas, developing my skills, and creating meaningful digital experiences.
 
-- 🎮 Gaming enthusiast
-- 🎥 Content creator
-- ⚡ Building my own universe
-- 🌌 Always leveling up
+Interested in technology and programming
+Always learning something new
+Focused on personal and professional growth
+Believe in simplicity, creativity, and consistency
+Currently
+Learning new technologies
+Improving my programming skills
+Exploring creative projects
+Working toward my goals
+Skills & Interests
 
----
+Programming Technology Creativity Problem Solving Design
 
-# 🔴 LIVE STREAM
+GitHub Activity
 
 <div align="center">
 
-### WATCH THE NEXT SESSION
+!GitHub Stats
 
-[![Twitch](https://img.shields.io/badge/▶_WATCH_LIVE-9146FF?style=for-the-badge)](https://twitch.tv/)
-
-**STATUS:** `WAITING FOR TRANSMISSION...`
+!Top Languages
 
 </div>
-
----
-
-# 🌐 MY SOCIAL 
-
-| PLATFORM | LINK |
-|:---|:---|
-| 🎮 Twitch | [Follow me](https://twitch.tv/) |
-| ▶️ YouTube | [Subscribe](https://youtube.com/) |
-| 📱 TikTok | [Follow](https://tiktok.com/) |
-| 📸 Instagram | [Follow](https://instagram.com/) |
-| 💬 Discord | [Join server](https://discord.com/) |
-| 🐦 X | [Follow](https://x.com/) |
-
----
-
-# 💻 MY SETUP
-
-```yaml
-Name: VOID
-Role: Content Creator
-Status: Always Online
-Vibe: Cyberpunk
-Energy: 100%
-Mission: Become Unforgettable
-```
-
----
 
 <div align="center">
 
-### 「 THANKS FOR VISITING MY UNIVERSE 」
+Thank you for visiting my profile.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+Arthur Gabriel P. Bernardo
 
-**© 2026 VOID.exe — ALL RIGHTS RESERVED**
+© 2026 · Personal Portfolio
 
 </div>
- 
