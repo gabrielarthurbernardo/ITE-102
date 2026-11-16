@@ -1,129 +1,173 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ARTHUR%20GABRIEL%20P.%20BERNARDO&fontSize=27&fontColor=FFFFFF&fontAlignY=42&desc=IT%20STUDENT%20%7C%20CONTENT%20CREATOR%20%7C%20TECH%20ENTHUSIAST&descSize=11&descAlignY=65&descColor=AAAAAA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11111B&height=200&section=header&text=ARTHUR%20GABRIEL&fontSize=38&fontColor=E6E0F0&fontAlignY=40&desc=CREATIVE%20MIND%20%7C%20TECH%20ENTHUSIAST%20%7C%20IT%20STUDENT&descSize=11&descAlignY=63&descColor=A6A0B5" width="100%" />
 
 <br>
 
-<a href="https://github.com/staryyboo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/arthur.staribu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.tiktok.com/@star.shinichii"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="https://www.youtube.com/@staryyboo775"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+### Hello, I'm Arthur! 
+
+*An IT student with a passion for technology, design, and everything in between.*
+
+<a href="https://github.com/staryyboo">
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-252535?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://www.instagram.com/arthur.staribu/">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-252535?style=flat-square&logo=instagram&logoColor=E6A6C7">
+</a>
+<a href="https://www.tiktok.com/@star.shinichii">
+<img src="https://img.shields.io/badge/TikTok-My%20Content-252535?style=flat-square&logo=tiktok&logoColor=white">
+</a>
 
 <br><br>
 
-*Building ideas. Exploring technology. Creating experiences.*
+<img src="https://komarev.com/ghpvc/?username=staryyboo&style=flat-square&color=9B8AC4&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 01 / ABOUT ME
+## 01. ABOUT ME
 
-Hello! I'm **Arthur Gabriel P. Bernardo**, an Information Technology student at **National University Clark**.
+I'm **Arthur Gabriel P. Bernardo**, an Information Technology student at **National University Clark**.
 
-I'm passionate about technology, creativity, and digital experiences. I enjoy exploring different areas of IT, learning how things work, and turning ideas into projects.
+I enjoy exploring the intersection of technology and creativity. Whether it's developing applications, designing graphics, editing videos, building PCs, or streaming games, I love working on things that allow me to express ideas and learn something new.
 
-Outside academics, I'm also into content creation, livestreaming, video editing, and discovering new technologies. I'm always looking for opportunities to improve my skills and try something new.
+I don't like limiting myself to just one field. I'm always curious about how things work and how I can turn that curiosity into something meaningful.
 
-## 02 / WHAT I DO
+> *"A little bit of creativity, a little bit of technology, and a lot of curiosity."*
+
+---
+
+## 02. WHAT I'M INTO
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 01 — DEVELOPMENT
+### ◈ Graphic Design
 
-Learning programming and building applications while exploring different technologies.
+Creating graphics, layouts, digital compositions, and visual identities. I enjoy experimenting with aesthetics and making things look good.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 02 — CONTENT CREATION
+### ◈ Development
 
-Creating digital content, editing videos, and experimenting with creative ideas.
+Exploring programming, building applications, and learning how to turn ideas into functional digital experiences.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 03 — LIVESTREAMING
+### ◈ PC Building & Hardware
 
-Streaming games, interacting with viewers, and building an online community.
+Building and upgrading PCs, exploring hardware components, optimizing performance, and creating setups that look and perform great.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 04 — TECH EXPLORATION
+### ◈ Video Editing
 
-Exploring PC hardware, software, digital tools, and new technologies.
+Working with video, transitions, motion graphics, and visual storytelling to create engaging content.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Gaming & Livestreaming
+
+Playing video games, livestreaming, interacting with viewers, and continuously improving my streaming setup.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ UI/UX & Creative Exploration
+
+Experimenting with interface design, Figma, digital experiences, and different creative tools.
 
 </td>
 </tr>
 </table>
 
-## 03 / TECH STACK & TOOLS
+---
 
-**Languages & Development**
+## 03. MY TOOLKIT
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,php,react&theme=light" />
-</p>
+*Some of the technologies and creative tools I work with or am currently exploring.*
 
-**Tools & Software**
+**Programming & Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,vscode,idea,figma,photoshop,illustrator,ae,pr&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,react&theme=dark" />
 </p>
 
-## 04 / BEYOND THE CODE
+**Creative & Design**
 
-A few things I enjoy outside programming:
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr&theme=dark" />
+</p>
 
-- **Gaming** — Valorant, Minecraft, and other games.
-- **Streaming** — Livestreaming, improving my setup, and interacting with viewers.
-- **Video Editing** — Exploring creative edits and visual storytelling.
-- **PC Building** — Learning about hardware, components, and performance.
-- **Design** — Experimenting with UI/UX, layouts, and digital aesthetics.
-- **Technology** — Exploring new software, gadgets, and tools.
-- **Continuous Learning** — Developing new skills and experimenting with different ideas.
+**Tools & Platforms**
 
-## 05 / GITHUB OVERVIEW
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,idea,windows,obs&theme=dark" />
+</p>
+
+---
+
+## 04. BEYOND THE SCREEN
+
+Not everything happens in an IDE.
+
+- 🎮 **Gaming:** Valorant, Minecraft, and other games.
+- 🎨 **Design:** Graphic design, digital layouts, and creative experimentation.
+- 🖥️ **PC Building:** Hardware, upgrades, cable management, and performance optimization.
+- 🎥 **Content Creation:** Video editing, livestreaming, and digital content.
+- 🧸 **Personal Interests:** Chiikawa, collectibles, and cute minimalist aesthetics.
+- 📚 **Learning:** Exploring cybersecurity, development, and new technologies.
+
+---
+
+## 05. GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=staryyboo&show_icons=true&hide_border=true&theme=default&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=staryyboo&show_icons=true&hide_border=true&bg_color=11111B&title_color=C4B5FD&icon_color=A78BFA&text_color=D1D1DF&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staryyboo&layout=compact&hide_border=true&theme=default" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staryyboo&layout=compact&hide_border=true&bg_color=11111B&title_color=C4B5FD&text_color=D1D1DF" width="49%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=staryyboo&hide_border=true&theme=default" width="70%" />
+<img src="https://streak-stats.demolab.com?user=staryyboo&hide_border=true&background=11111B&ring=C4B5FD&fire=F0B6CE&currStreakLabel=C4B5FD&sideLabels=D1D1DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888899" width="75%" />
 
 </div>
 
-## 06 / FIND ME ONLINE
+---
+
+## 06. LET'S CONNECT
+
+I'm always open to meeting new people, sharing ideas, exploring creative projects, and connecting with fellow tech enthusiasts.
 
 <div align="center">
 
-<a href="https://github.com/staryyboo"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=flat-square&logo=github"></a>
-<a href="https://www.instagram.com/arthur.staribu/"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=flat-square&logo=instagram"></a>
-<a href="https://www.tiktok.com/@star.shinichii"><img src="https://img.shields.io/badge/TikTok-Follow%20Me-000000?style=flat-square&logo=tiktok"></a>
-<a href="https://www.youtube.com/@staryyboo775"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube"></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord"></a>
+<a href="https://github.com/staryyboo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.instagram.com/arthur.staribu/">
+<img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@star.shinichii">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
 
 <br><br>
 
-<a href="https://www.twitch.tv/staryyboo"><img src="https://img.shields.io/badge/Twitch-Catch%20Me%20Live-9146FF?style=flat-square&logo=twitch"></a>
+*Thanks for visiting my little corner of GitHub!*
 
-<br><br>
+**Made with curiosity & creativity.**
 
-*Thanks for stopping by. Feel free to explore my projects!*
-
-**ARTHUR GABRIEL P. BERNARDO**
-
-© 2026 · Built with curiosity and simplicity.
+<sub>© 2026 Arthur Gabriel P. Bernardo</sub>
 
 </div>
