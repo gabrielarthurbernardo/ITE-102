@@ -5,11 +5,11 @@
 
 <br>
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="[YOUR_GITHUB_URL](https://github.com/staryyboo)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/arthur.staribu/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="[YOUR_TIKTOK_URL](https://www.tiktok.com/@star.shinichii?lang=en)"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+<a href="[YOUR_YOUTUBE_URL](https://www.youtube.com/@staryyboo775)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="[YOUR_DISCORD_URL](https://discord.gg/GxQ6vYrSfM)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br><br>
 
@@ -108,15 +108,15 @@ A few things I enjoy outside programming:
 
 <div align="center">
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=flat-square&logo=github"></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=flat-square&logo=instagram"></a>
-<a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-Follow%20Me-000000?style=flat-square&logo=tiktok"></a>
-<a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube"></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord"></a>
+<a href="[YOUR_GITHUB_URL](https://github.com/staryyboo)"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=flat-square&logo=github"></a>
+<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/arthur.staribu/)"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=flat-square&logo=instagram"></a>
+<a href="[YOUR_TIKTOK_URL](https://www.tiktok.com/@star.shinichii?lang=en)"><img src="https://img.shields.io/badge/TikTok-Follow%20Me-000000?style=flat-square&logo=tiktok"></a>
+<a href="[YOUR_YOUTUBE_URL](https://www.youtube.com/@staryyboo775)"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube"></a>
+<a href="[YOUR_DISCORD_URL](https://discord.gg/GxQ6vYrSfM)"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord"></a>
 
 <br><br>
 
-<a href="YOUR_STREAM_URL"><img src="https://img.shields.io/badge/Streaming-Catch%20Me%20Live-9146FF?style=flat-square&logo=twitch"></a>
+<a href="[YOUR_STREAM_URL](https://www.twitch.tv/staryyboo)"><img src="https://img.shields.io/badge/Streaming-Catch%20Me%20Live-9146FF?style=flat-square&logo=twitch"></a>
 
 <br><br>
 
