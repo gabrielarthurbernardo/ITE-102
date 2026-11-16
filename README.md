@@ -133,20 +133,19 @@ Not everything happens in an IDE.
 
 ## 05. LABORATORY ACTIVITIES
 
-A collection of my completed programming laboratory exercises and academic activities at National University Clark.
+A collection of my programming laboratory exercises, hands-on activities, and academic work for ITE-102 at National University Clark.
 
 <div align="center">
 
-<a href="https://github.com/staryyboo/staryyboo.github.io/tree/main/Lab%20Tasks/Midterm">
-<img src="https://img.shields.io/badge/VIEW%20MY%20MIDTERM%20LAB%20TASKS-11111B?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=252535">
+<a href="https://github.com/staryyboo/ITE-102/tree/main/Lab%20Exercises">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20LAB%20EXERCISES-11111B?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=252535">
 </a>
 
 <br><br>
 
-*Explore my programming exercises, solutions, and activities.*
+*Documenting my progress, learning, and development as an IT student.*
 
 </div>
-
 ---
 
 ## 06. LET'S CONNECT
