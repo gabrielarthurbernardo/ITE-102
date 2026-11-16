@@ -1,10 +1,11 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=11111B&height=200&section=header&text=ARTHUR%20GABRIEL&fontSize=38&fontColor=E6E0F0&fontAlignY=40&desc=CREATIVE%20MIND%20%7C%20TECH%20ENTHUSIAST%20%7C%20IT%20STUDENT&descSize=11&descAlignY=63&descColor=A6A0B5" width="100%" />
 
 <br>
 
-### Hello, I'm Arthur! 
+### Hello, I'm Arthur!
 
 *An IT student with a passion for technology, design, and everything in between.*
 
@@ -130,17 +131,19 @@ Not everything happens in an IDE.
 
 ---
 
-## 05. GITHUB ACTIVITY
+## 05. LABORATORY ACTIVITIES
+
+A collection of my completed programming laboratory exercises and academic activities at National University Clark.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=staryyboo&show_icons=true&hide_border=true&bg_color=11111B&title_color=C4B5FD&icon_color=A78BFA&text_color=D1D1DF&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staryyboo&layout=compact&hide_border=true&bg_color=11111B&title_color=C4B5FD&text_color=D1D1DF" width="49%" />
+<a href="https://github.com/staryyboo/staryyboo.github.io/tree/main/Lab%20Tasks/Midterm">
+<img src="https://img.shields.io/badge/VIEW%20MY%20MIDTERM%20LAB%20TASKS-11111B?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=252535">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=staryyboo&hide_border=true&background=11111B&ring=C4B5FD&fire=F0B6CE&currStreakLabel=C4B5FD&sideLabels=D1D1DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888899" width="75%" />
+*Explore my programming exercises, solutions, and activities.*
 
 </div>
 
