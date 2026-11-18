@@ -1,3 +1,11 @@
+/*
+    Student Name: Arthur Gabriel P. Bernardo
+    Course: BS Information Technology
+    Activity: Java 2D Array Matrix Operations
+    Description: A program that populates a 3x3 2D array with user-inputted 
+                 elements, then computes and displays row sums, column sums, 
+                 diagonal sums, and total elements with a retry loop.
+*/
 
 import java.util.Scanner;
 
@@ -58,4 +66,3 @@ public class Matrix {
         } while (option.equalsIgnoreCase("y"));
     }
 }
- 
