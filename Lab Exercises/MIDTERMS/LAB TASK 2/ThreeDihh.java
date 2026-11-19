@@ -4,13 +4,14 @@ import java.util.Scanner;
 public class ThreeDihh {
     public static void main(String[] args) {
 
+        //3. create scanner to get user input
         Scanner sc = new Scanner(System.in);
 
-        //1. declare the subjects and create a 3D array for the sections, students, and grades
+        //2. declare the subjects and create a 3D array for 2 sections, 3 students, and 3 subjects
         String[] subjects = {"Java", "Database", "Networking"};
         int[][][] grades = new int[2][3][3];
 
-        //2. ask the user to input the grades of all students
+        //4. get the grades of each student from both sections
         for (int s = 0; s < 2; s++) {
 
             System.out.println("\nSECTION " + (s + 1));
@@ -28,7 +29,7 @@ public class ThreeDihh {
             }
         }
 
-        //3. display all grades and calculate the average of each student
+        //5. display each section, student, and their subject grades
         for (int s = 0; s < 2; s++) {
 
             double totalSection = 0;
@@ -47,24 +48,24 @@ public class ThreeDihh {
 
                     System.out.println(subjects[sub] + ": " + grades[s][st][sub]);
 
-                    totalStudent = totalStudent + grades[s][st][sub];
+                    //6. add the grades of each subject to get the student's total
+                    totalStudent += grades[s][st][sub];
                 }
 
-                //4. get the average of the student's three subject grades
+                //7. calculate and display the student's average
                 double average = totalStudent / 3;
-
                 System.out.printf("Student Average: %.2f%n", average);
 
+                //8. add the student's average to the section total
                 totalSection += average;
             }
 
-            //5. calculate the average of all students in the current section
+            //9. calculate and display the section average
             double averageSection = totalSection / 3;
-
             System.out.printf("%nSection Average: %.2f%n", averageSection);
         }
 
-        //6. close scanner after all inputs and calculations are done
+        //10. close scanner after all inputs and calculations are done
         sc.close();
     }
 }
