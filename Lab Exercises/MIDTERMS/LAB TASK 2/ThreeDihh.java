@@ -4,68 +4,67 @@ import java.util.Scanner;
 public class ThreeDihh {
     public static void main(String[] args) {
 
-        //1. declare scanner to get user input
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        //2. create a 3D array for 2 sections, 3 students, and 3 subjects
-        int[][][] three = new int[2][3][3];
-
-        //3. store the subject names
+        //1. declare the subjects and create a 3D array for the sections, students, and grades
         String[] subjects = {"Java", "Database", "Networking"};
+        int[][][] grades = new int[2][3][3];
 
-        //4. get the grades of each student from both sections
-        for (int layer = 0; layer < 2; layer++) {
-            System.out.println("SECTION " + (layer + 1));
-            System.out.println("------------------------");
+        //2. ask the user to input the grades of all students
+        for (int s = 0; s < 2; s++) {
 
-            for (int row = 0; row < 3; row++) {
-                System.out.println("Student " + (row + 1));
+            System.out.println("\nSECTION " + (s + 1));
 
-                for (int col = 0; col < 3; col++) {
-                    System.out.print(subjects[col] + ": ");
-                    three[layer][row][col] = input.nextInt();
+            for (int st = 0; st < 3; st++) {
+
+                System.out.println("\nStudent " + (st + 1));
+
+                int sub = 0;
+                while (sub < 3) {
+                    System.out.print("Enter " + subjects[sub] + " grade: ");
+                    grades[s][st][sub] = sc.nextInt();
+                    sub++;
                 }
-                System.out.println();
             }
         }
 
-        //5. display the grades and calculate the student and section averages
-        for (int layer = 0; layer < 2; layer++) {
-            System.out.println("SECTION " + (layer + 1));
-            System.out.println("------------------------");
+        //3. display all grades and calculate the average of each student
+        for (int s = 0; s < 2; s++) {
 
-            double sectionTotal = 0;
+            double totalSection = 0;
 
-            for (int row = 0; row < 3; row++) {
-                System.out.println("Student " + (row + 1));
+            System.out.println("\n========================");
+            System.out.println("SECTION " + (s + 1));
+            System.out.println("========================");
 
-                double studentTotal = 0;
+            for (int st = 0; st < 3; st++) {
 
-                //6. get and display each subject grade, then add them together
-                for (int col = 0; col < 3; col++) {
-                    System.out.println(subjects[col] + ": " + three[layer][row][col]);
-                    studentTotal += three[layer][row][col];
+                double totalStudent = 0;
+
+                System.out.println("\nStudent " + (st + 1));
+
+                for (int sub = 0; sub < 3; sub++) {
+
+                    System.out.println(subjects[sub] + ": " + grades[s][st][sub]);
+
+                    totalStudent = totalStudent + grades[s][st][sub];
                 }
 
-                //7. calculate the student's average
-                double studentAvg = studentTotal / 3.0;
+                //4. get the average of the student's three subject grades
+                double average = totalStudent / 3;
 
-                //8. add the student's average to the section total
-                sectionTotal += studentAvg;
+                System.out.printf("Student Average: %.2f%n", average);
 
-                System.out.printf("Student Average: %.2f%n", studentAvg);
-
-                if (row < 2) {
-                    System.out.println();
-                }
+                totalSection += average;
             }
 
-            //9. calculate and display the average of all students in the section
-            double sectionAvg = sectionTotal / 3.0;
-            System.out.printf("Section Average: %.2f%n%n", sectionAvg);
+            //5. calculate the average of all students in the current section
+            double averageSection = totalSection / 3;
+
+            System.out.printf("%nSection Average: %.2f%n", averageSection);
         }
 
-        //10. close scanner after getting all inputs
-        input.close();
+        //6. close scanner after all inputs and calculations are done
+        sc.close();
     }
 }
