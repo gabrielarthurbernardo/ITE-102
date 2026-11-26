@@ -1,0 +1,118 @@
+import java.util.Scanner;
+
+public class StudentGradeMan {
+
+
+    public static double getAverage(double grade1, double grade2, double grade3) {
+        double arvg = 0;
+        arvg = (grade1 + grade2 + grade3) / 3;
+        return arvg;
+    }
+
+    public static String getRemark(double arvg) {
+        if (arvg >= 60){
+            return "Passed";
+        }else{
+            return "Failed";
+        }
+    }
+
+     public static void studInfo(String studentNumber, String studentName, String studentCourse,String yearLevel) {
+        System.out.println("-----------------------------------------------------");
+        System.out.println("SAMPLE OUTPUT:                                       ");
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Student Number                      : " + studentNumber);
+        System.out.println("Name                                : " + studentName);
+        System.out.println("Course                              : " + studentCourse);
+        System.out.println("Year Level                          : " + yearLevel);
+        System.out.println("-----------------------------------------------------");
+     }
+
+    public static String getEquiv(double arvg, char choice) {
+    String equiv = "";
+    
+    switch (choice) {
+        case 'L':
+            if (arvg >= 90) {
+                equiv = "A";
+            } else if (arvg >= 83){
+                equiv = "B";
+            } else if (arvg >= 75) {
+                equiv = "C";
+            } else if (arvg >= 60) {
+                equiv = "D";
+            } else {
+                equiv = "F";
+            }
+            break;
+       
+    
+            case'N':
+            if (arvg >= 96) {
+                equiv = "4.00";
+            } else if (arvg >=90) {
+                equiv = "3.50";
+            } else if (arvg >=84) {
+                equiv = "3.00";
+            } else if (arvg >= 77) {
+                equiv = "2.50";
+            } else if (arvg >= 70) {
+                equiv = "2.00";
+            } else {
+                equiv = "1.00";
+            }
+            break;
+
+            default:
+            System.out.println("NO MATCH FOUND!");
+            break;
+        }
+            return equiv;
+    }
+
+    public static void displayResult(double arvg, String remark, char choice) {
+    
+        System.out.printf("Average is                          : %.2f\n", arvg);
+        System.out.println("Letter Grade is                     : " + getEquiv(arvg, choice));
+        System.out.println("Remarks                             : " + remark);
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+
+        System.out.print("Enter Student Number: ");
+        String studentNumber = sc.nextLine();
+
+        System.out.print("Enter Student Name: ");
+        String studentName = sc.nextLine();
+
+        System.out.print("Enter Student Course: ");
+        String studentCourse = sc.nextLine();
+
+        System.out.print("Enter Year Level: ");
+        String yearLevel = sc.nextLine();
+
+        studInfo(studentNumber, studentName, studentCourse, yearLevel);
+
+        System.out.print("Enter Grades: \n");
+
+        System.out.printf("Grade 1                             : ");
+        double grade1 = sc.nextDouble();
+
+        System.out.printf("Grade 2                             : ");
+        double grade2 = sc.nextDouble();
+
+        System.out.printf("Grade 3                             : ");
+        double grade3 = sc.nextDouble();
+
+        double arvg = getAverage(grade1, grade2, grade3); //so basically parang sequence 1 ito and u js have to add the thing inside that method
+        System.out.println("-----------------------------------------------------");
+        System.out.print("Display Letter Grade or Numeric Grade [L/N]?: ");
+        char choice = sc.next().toUpperCase().charAt(0); //seq 1
+        System.out.println("-----------------------------------------------------");
+        displayResult(arvg, getRemark(arvg), choice); //seq 3
+        System.out.println("-----------------------------------------------------");
+        sc.close();
+    }
+}
